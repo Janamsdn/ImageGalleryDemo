@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ImageGalleryDemoActivity!</string>
+    <string name="app_name">ImageGalleryDemo</string>
+     <string name="android_beta">Android beta : 5 Nov 2007</string>
+    <string name="android_1_0">Android 1.0 - First commercial version that was released on  23 Sept 2008</string>
+    <string name="android_1_1">Android 1.1 - Internally known as &quot;Petit Four&quot; : 9 Feb 2009</string>
+    <string name="android_1_5">Android 1.5 - Cupcake : 30 Apr 2009</string>
+    <string name="android_1_6">Android 1.6 - Donut: 15 Sept 2009</string>
+    <string name="android_eclair">Android 2.0, 2.0.1 ,2.1 - Eclair : 26 Oct 2009</string>
+    <string name="android_2_2_x">Android 2.2.x - Froyo (Frozen Yogurt) : 20 May 2010</string>
+    <string name="android_2_3_x">Android 2.3.x - Gingerbread : 6 Dec 2010</string>
+    <string name="android_3_x">Android 3.x - Honeycomb : 22 Feb 2011</string>
+    <string name="android_4_0_x">Android 4.0.x - Ice Cream Sandwich : 19 Oct 2011</string>
+    <string name="android_jellybean">Android 4.1, 4.2 - Jelly Bean : 27 July 2012</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">next</string>
+</resources>
